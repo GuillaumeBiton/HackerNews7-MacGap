@@ -5,13 +5,9 @@ Another Hacker News Reader powered by [Framework7](https://github.com/nolimits4w
 
 About
 -----
-This is a demo app to show how [Framework7](https://github.com/nolimits4web/Framework7) makes it easy to develop hybrid apps.
+This is the MacGap project for HackerNews7.
 
-It is based on the [Official Hacker News API](https://github.com/HackerNews/API) even if I think that the [Unofficial Hacker News API](https://github.com/cheeaun/node-hnapi/) provides a better structure (but I hope they will be inspired by this last one).
-
-Some of my work here are inspired by the work of Lim Chee Aun ([cheeaun](https://github.com/cheeaun)) and is project [hackerweb](https://github.com/cheeaun/hackerweb)
-
-This app is *multi-platform*. You can use it throw your web browser on your smartphone, tablet or desktop because it's responsive. You can also create a desktop app with [node-webkit](https://github.com/rogerwang/node-webkit).
+It is based on the [Official Hacker News API](https://github.com/HackerNews/API).
 
 License
 -------
